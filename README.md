@@ -38,6 +38,11 @@
 
 &nbsp;
 
+---
+
+### :fire: Моя статистика:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hydregnej&theme=react&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&border_radius=50&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <div id="counter" align="right">
 Страницу посмотрели:
 </div>
