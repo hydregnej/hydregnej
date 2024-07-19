@@ -26,18 +26,6 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-<div id="text" align="center">
-  Связаться со мной можно через:
-</div>
-&nbsp;
-<div id="badges" align="center">
-  <a href="https://t.me/AndreySitemap">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
-
-&nbsp;
-
 ---
   
 ### :fire: Моя статистика:
@@ -48,6 +36,17 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydregnej&locale=ru&layout=compact&card_width=800&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+---
+
+### Связаться со мной можно через:
+&nbsp;
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+
+---
+
+&nbsp;
 
 <div id="counter" align="right">
 Страницу посмотрели:
