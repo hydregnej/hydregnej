@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="./Андрей.gif" width="600"/>
+  <img src="./mygif.gif" width="600"/>
 </div>
 <!--
 **hydregnej/hydregnej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
