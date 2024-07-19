@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="./mygif.gif" width="600"/>
 </div>
-<div id="text" align="center" style="margin-bottom: 20px;">
+<div id="text" align="center" style="margin-bottom: 20;">
   Связь через:
 </div>
 <div id="badges" align="center">
