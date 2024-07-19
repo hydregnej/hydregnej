@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=hydregnej&style=flat-square&color=blue" alt=""/>
 <!--
 **hydregnej/hydregnej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
