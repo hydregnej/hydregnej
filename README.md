@@ -2,13 +2,11 @@
   <img src="./mygif.gif" width="600"/>
 </div>
 
----
-
 &nbsp;
 
 ### :man_technologist: Обо мне :
-Занимаюсь разработкой веб-приложений <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> на React.
-- :computer: Разработал многостраничный сайт для бизнеса https://github.com/hydregnej/pritsepnye-resheniya. Написал Frontend и Backend части сайта, настроил семантику и SEO. По желанию заказчика, данные с формы обратной связи приходят в Telegram. Сервер написан на node.js
+Занимаюсь разработкой веб-приложений на React <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30">
+- :computer: Разработал многостраничный сайт для бизнеса https://github.com/hydregnej/pritsepnye-resheniya. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Написал Frontend и Backend части сайта, настроил семантику и SEO. По желанию заказчика, данные с формы обратной связи приходят в Telegram. Сервер написан на node.js
 
 - :mag: Считаю, что у меня аналитический склад ума, мне нравится решать сложные задачи
 
@@ -30,21 +28,21 @@
   
 ### :fire: Моя статистика:
 
-<div id="stat" style="display: flex;">
+<div id="stat">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hydregnej&theme=react&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&border_radius=50&card_width=800&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydregnej&locale=ru&layout=compact&card_width=800&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="6000"/>
 
 ### Связаться со мной можно через:
 &nbsp;
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="6000"/>
 
 &nbsp;
 
