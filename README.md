@@ -17,11 +17,10 @@
 
 &nbsp;
 
-<div id="counter" align="left">
+<div id="counter" align="right">
 Страницу посмотрели:
 </div>
-<div id="counter" align="left">
-Страницу посмотрели:
+<div id="counter" align="right">
 <img src="https://komarev.com/ghpvc/?username=hydregnej&style=flat-square&color=blue"  alt="Счётчик просмотра страницы GitHub hydregnej"/>
 </div>
 <!--
