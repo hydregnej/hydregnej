@@ -2,9 +2,11 @@
 <div id="header" align="center">
   <img src="./mygif.gif" width="600"/>
 </div>
-<div id="text" align="center" style="margin-bottom: 20;">
+
+<div id="text" align="center">
   Связь через:
 </div>
+
 <div id="badges" align="center">
   <a href="https://t.me/AndreySitemap">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
