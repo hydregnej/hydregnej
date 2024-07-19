@@ -2,6 +2,9 @@
 <div id="header" align="center">
   <img src="./mygif.gif" width="600"/>
 </div>
+<div id="text" align="center">
+  Связаться со мной можно:
+</div>
 <div id="badges" align="center">
   Связаться со мной можно:
   <a href="https://t.me/AndreySitemap">
