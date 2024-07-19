@@ -39,12 +39,14 @@
 &nbsp;
 
 ---
-<div id="stat" align="left">
   
 ### :fire: Моя статистика:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hydregnej&theme=react&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&border_radius=50&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydregnej&locale=ru&layout=compact&card_width=400&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div id="stat" style="display: flex;">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hydregnej&theme=react&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&border_radius=50&card_width=800&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydregnej&locale=ru&layout=compact&card_width=800&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div id="counter" align="right">
