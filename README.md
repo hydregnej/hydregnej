@@ -16,9 +16,8 @@
 
 ### Мои контакты:
 &nbsp;
-  <a href="https://t.me/AndreySitemap">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/AndreySitemap)
+
 
 ---
 
