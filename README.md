@@ -12,7 +12,16 @@
 
 - :zap: В свободное время я решаю задачи на Leetcode/CodeWars и читаю статьи о мире IT
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="6000"/>
+
+### Мои контакты:
+&nbsp;
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="6000"/>
+
+
 
 ### :hammer_and_wrench: Стек технологий :
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,15 +43,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydregnej&locale=ru&layout=compact&card_width=800&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="6000"/>
-
-### Связаться со мной можно через:
-&nbsp;
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="6000"/>
 
 &nbsp;
 
