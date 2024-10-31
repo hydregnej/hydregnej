@@ -6,7 +6,7 @@
 
 ### :man_technologist: Обо мне :
 Занимаюсь разработкой веб-приложений на React <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30">
-- :computer: Разработал многостраничный сайт для бизнеса https://github.com/hydregnej/pritsepnye-resheniya. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Написал Frontend и Backend части сайта, настроил семантику и SEO. По желанию заказчика, данные с формы обратной связи приходят в Telegram. Сервер написан на node.js
+- :computer: Разработал многостраничный сайт для бизнеса <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Написал Frontend и Backend части сайта, настроил семантику и SEO. По желанию заказчика, данные с формы обратной связи приходят в Telegram. Сервер написан на node.js
 
 - :mag: Считаю, что у меня аналитический склад ума, мне нравится решать сложные задачи
 
