@@ -6,18 +6,24 @@
 
 ### :man_technologist: Обо мне :
 Занимаюсь разработкой веб-приложений на React <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30">
-- :computer: Разработал многостраничный сайт для бизнеса <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Написал Frontend и Backend части сайта, настроил семантику и SEO. По желанию заказчика, данные с формы обратной связи приходят в Telegram. Сервер написан на node.js
+- Считаю, что у меня аналитический склад ума, мне нравится решать сложные задачи
+- В свободное время решаю задачи на Leetcode/CodeWars, читаю статьи о мире IT
+- Быстро адаптируюсь к новым технологиям и задачам, будь то настройка нового стека или оптимизация уже существующего приложения
 
-- :mag: Считаю, что у меня аналитический склад ума, мне нравится решать сложные задачи
-
-- :zap: В свободное время решаю задачи на Leetcode/CodeWars, читаю статьи о мире IT
+Чем я занимался на проектах:
+- Разрабатывал UI для B2B и B2C платформ.
+- Участвовал в создании дизайн-систем, обеспечивающих консистентность внешнего вида и UX.
+- Реализовывал сложные API-интеграции через Swagger и Axios, создавая типизированные клиенты для взаимодействия с бэкендом.
+- Работал над сложными интерфейсами с поддержкой мультиязычности, используя formatMessage и другие инструменты для i18n.
+- Активно участвовал в код-ревью, улучшал и поддерживал общий стиль кода в команде.
+- Отвечал за высокоуровневую архитектуру фронтенда, а также за внедрение и поддержку лучших практик
 
 ---
 
 ### Мои контакты:
 &nbsp;
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/AndreySitemap)
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Andrey_Frontend)
 
 
 ---
@@ -47,19 +53,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-  
-### :fire: Моя статистика:
-
-<div id="stat">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hydregnej&theme=react&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&border_radius=50&card_width=800&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydregnej&locale=ru&layout=compact&card_width=800&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-&nbsp;
 
 <div id="counter" align="right">
 Страницу посмотрели:
